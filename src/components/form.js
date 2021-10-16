@@ -27,7 +27,7 @@ return (
 <div className='form-submition'>
 <h2>Order your pizza here!</h2> 
 
-<button disabled={disabled}>Ready to Order? Click Here!</button>
+
 <div classname='errors'>
 <div>{errors.name}</div>
 <div>{errors.size}</div>
